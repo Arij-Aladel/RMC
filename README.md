@@ -13,4 +13,6 @@
 10. [A Simple but Effective Method to Incorporate Multi-turn Contextwith BERT for Conversational Machine Comprehension](https://arxiv.org/pdf/1905.12848.pdf)
 11. [TT-Net: Topic Transfer-Based Neural Network forConversational Reading Comprehension](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805064&tag=1)
 12. [Review Conversational Reading Comprehension](https://arxiv.org/pdf/1902.00821.pdf)
+13. [Multi-passage BERT: A Globally Normalized BERT Model forOpen-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf)
+14. [Question Answering with BERT and AnswerVerification](http://web.stanford.edu/class/cs224n/reports/default/15763476.pdf)
 

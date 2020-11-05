@@ -8,7 +8,7 @@
 6. [BERT with History Answer Embedding for ConversationalQuestion Answering](https://arxiv.org/pdf/1905.05412.pdf)
 7. [Conversational Machine Comprehension: a Literature Review](https://arxiv.org/pdf/2006.00671.pdf)
 8. [Attentive History Selection for ConversationalQuestion Answering](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905)
-9. [FLOWQA: GRASPINGFLOW INHISTORY FORCONVERSATIONALMACHINECOMPREHENSION](https://arxiv.org/pdf/1810.06683.pdf)  ,  [   on git](https://github.com/momohuang/FlowQA)
+9. [FLOWQA: GRASPINGFLOW INHISTORY FORCONVERSATIONALMACHINECOMPREHENSION](https://arxiv.org/pdf/1810.06683.pdf) , 16 Apr 2019 ,  [   on git](https://github.com/momohuang/FlowQA)
 
 10. [A Simple but Effective Method to Incorporate Multi-turn Contextwith BERT for Conversational Machine Comprehension](https://arxiv.org/pdf/1905.12848.pdf)
 11. [TT-Net: Topic Transfer-Based Neural Network forConversational Reading Comprehension](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805064&tag=1)

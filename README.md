@@ -7,4 +7,4 @@
 5. [CoQA: A Conversational Question Answering Challenge](https://arxiv.org/pdf/1808.07042.pdf)
 6. [BERT with History Answer Embedding for ConversationalQuestion Answering](https://arxiv.org/pdf/1905.05412.pdf)
 7. [Conversational Machine Comprehension: a Literature Review](https://arxiv.org/pdf/2006.00671.pdf)
-8. 
+8. [Attentive History Selection for ConversationalQuestion Answering](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905)

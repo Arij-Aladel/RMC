@@ -19,5 +19,7 @@
 16. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf)
 17. [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf)
 18. [SDNET:  CONTEXTUALIZEDATTENTION-BASEDDEEPNETWORK   FORCONVERSATIONALQUESTIONAN-SWERING](https://arxiv.org/pdf/1812.03593.pdf).  2 Jan 2019
-19. []()
+19. [Stochastic Answer Networks for Machine Reading Comprehension](https://arxiv.org/pdf/1712.03556.pdf)
+20. [FastQA: A Simple and Efficient Neural Architecture for Question](https://arxiv.org/pdf/1703.04816v1.pdf)
+21. 
 

@@ -1,6 +1,6 @@
 1. [Neural Machine Reading Comprehension:Methods and Trends](https://arxiv.org/pdf/1907.01118v1.pdf), 2 Jul 2019
 
-2. [QANET:   COMBININGLOCALCONVOLUTION   WITHGLOBALSELF-ATTENTION   FORREADINGCOMPRE-HENSION](https://arxiv.org/pdf/1804.09541.pdf), 23 Apr 2018
+2. [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](https://arxiv.org/pdf/1804.09541.pdf), 23 Apr 2018
 
 3. [A Survey on Machine Reading Comprehension:Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/pdf/2006.11880v1.pdf) , 21 Jun 2020
 4. [NEURAL READING COMPREHENSION AND BEYOND](https://www.cs.princeton.edu/~danqic/papers/thesis.pdf)

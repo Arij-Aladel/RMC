@@ -30,8 +30,8 @@
 ==============================================================
 
 Historical evolvment
-[ReasoNet: Learning to Stop Reading in Machine Comprehension](https://arxiv.org/pdf/1609.05284.pdf) 20 Jun 2017
-[An Empirical Analysis of Multiple-Turn Reasoning Strategiesin Reading Comprehension Tasks](https://arxiv.org/pdf/1711.03230.pdf) 9 Nov 2017
-[Stochastic Answer Networks for Machine Reading Comprehension](https://arxiv.org/pdf/1712.03556.pdf) 15 May 2018
-[Conversing by Reading:Contentful Neural Conversation with On-demand Machine Reading](https://arxiv.org/pdf/1906.02738.pdf) 7 Jun 2019
+* [ReasoNet: Learning to Stop Reading in Machine Comprehension](https://arxiv.org/pdf/1609.05284.pdf) 20 Jun 2017
+* [An Empirical Analysis of Multiple-Turn Reasoning Strategiesin Reading Comprehension Tasks](https://arxiv.org/pdf/1711.03230.pdf) 9 Nov 2017
+* [Stochastic Answer Networks for Machine Reading Comprehension](https://arxiv.org/pdf/1712.03556.pdf) 15 May 2018
+* [Conversing by Reading:Contentful Neural Conversation with On-demand Machine Reading](https://arxiv.org/pdf/1906.02738.pdf) 7 Jun 2019
 

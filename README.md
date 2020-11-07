@@ -19,10 +19,10 @@
 16. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), 10 Sep 2019
 17. [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf), 15 Nov 2018
 18. [SDNET:  CONTEXTUALIZEDATTENTION-BASEDDEEPNETWORK   FORCONVERSATIONALQUESTIONAN-SWERING](https://arxiv.org/pdf/1812.03593.pdf).  2 Jan 2019
-19. [Stochastic Answer Networks for Machine Reading Comprehension](https://arxiv.org/pdf/1712.03556.pdf)
-20. [FastQA: A Simple and Efficient Neural Architecture for Question](https://arxiv.org/pdf/1703.04816v1.pdf)
+19. [Stochastic Answer Networks for Machine Reading Comprehension](https://arxiv.org/pdf/1712.03556.pdf),  15 May 2018
+20. [FastQA: A Simple and Efficient Neural Architecture for Question](https://arxiv.org/pdf/1703.04816v1.pdf), 14 Mar 2017
 21. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/pdf/1704.00051.pdf) 28 Apr 2017
-22. [Exploiting Text Matching Techniques forKnowledge-Grounded Conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136717&tag=1)
+22. [Exploiting Text Matching Techniques forKnowledge-Grounded Conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136717), July 21, 2020.
 23. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf)
 24. [Question Answering on SQuAD with BERT](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15791990.pdf)
 

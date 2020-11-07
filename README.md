@@ -15,9 +15,9 @@
 12. [Review Conversational Reading Comprehension](https://arxiv.org/pdf/1902.00821.pdf) 6 Nov 2019 
 13. [Multi-passage BERT: A Globally Normalized BERT Model forOpen-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf), 2 Oct 2019
 14. [Question Answering with BERT and AnswerVerification](http://web.stanford.edu/class/cs224n/reports/default/15763476.pdf)
-15. [Conversing by Reading:Contentful Neural Conversation with On-demand Machine Reading](https://arxiv.org/pdf/1906.02738.pdf)
-16. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf)
-17. [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf)
+15. [Conversing by Reading:Contentful Neural Conversation with On-demand Machine Reading](https://arxiv.org/pdf/1906.02738.pdf), 7 Jun 2019
+16. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), 10 Sep 2019
+17. [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf), 15 Nov 2018
 18. [SDNET:  CONTEXTUALIZEDATTENTION-BASEDDEEPNETWORK   FORCONVERSATIONALQUESTIONAN-SWERING](https://arxiv.org/pdf/1812.03593.pdf).  2 Jan 2019
 19. [Stochastic Answer Networks for Machine Reading Comprehension](https://arxiv.org/pdf/1712.03556.pdf)
 20. [FastQA: A Simple and Efficient Neural Architecture for Question](https://arxiv.org/pdf/1703.04816v1.pdf)

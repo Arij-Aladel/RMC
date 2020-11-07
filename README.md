@@ -23,8 +23,9 @@
 20. [FastQA: A Simple and Efficient Neural Architecture for Question](https://arxiv.org/pdf/1703.04816v1.pdf), 14 Mar 2017
 21. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/pdf/1704.00051.pdf) 28 Apr 2017
 22. [Exploiting Text Matching Techniques forKnowledge-Grounded Conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136717), July 21, 2020.
-23. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf)
+23. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf), 25 Nov 2019
 24. [Question Answering on SQuAD with BERT](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15791990.pdf)
+
 
 
 ==============================================================

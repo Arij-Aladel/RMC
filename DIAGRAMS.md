@@ -1,3 +1,3 @@
 1. [Delaying Interaction Layers in Transformer-based Encoders for Efficient OpenDomain Question Answering](https://arxiv.org/pdf/2010.08422.pdf)
 
-![](Arij-Aladel/RMC/blob/main/Images/CMR.png)
+![](Images/CMR.png)

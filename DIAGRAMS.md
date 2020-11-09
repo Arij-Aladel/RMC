@@ -2,4 +2,5 @@
 
 ![](Images/CMR.png)
 2. [Transformer Based Memory Network forSentiment Analysis of Web Comments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8918438)
-![](Images/The flow chart of TF-MN.png)
+
+![](Images/The%20flow%20chart%20of%20TF-MN.png)

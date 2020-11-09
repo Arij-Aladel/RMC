@@ -29,6 +29,8 @@
 26. [Question Answering on SQuAD with BERT](Question Answering on SQuAD with BERT)
 27. [Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3079.pdf)
 28. [Learning to Transform, Combine, and Reasonin Open-Domain Question Answering](https://dl.acm.org/doi/pdf/10.1145/3289600.3291012)
+29. [http://web.stanford.edu/class/cs224n/reports/default/15791637.pdf](http://web.stanford.edu/class/cs224n/reports/default/15791637.pdf)
+30. []()
 
 
 

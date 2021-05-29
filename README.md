@@ -31,8 +31,9 @@
 ----
 # Review
 
-1. [Review Conversational Reading Comprehension](https://arxiv.org/pdf/1902.00821.pdf) 6 Nov 2019
-2. [A Survey on Machine Reading Comprehension:Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/pdf/2006.11880v1.pdf) , 21 Jun 2020
+1. [mine](https://docs.google.com/spreadsheets/d/1K897Gt-9NxbkV-uWa_YdX0miB-TLe6SFn0GXY-k6kmo/edit#gid=0) on ale diskrij goog
+2. [Review Conversational Reading Comprehension](https://arxiv.org/pdf/1902.00821.pdf) 6 Nov 2019
+3. [A Survey on Machine Reading Comprehension:Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/pdf/2006.11880v1.pdf) , 21 Jun 2020
 
 
 

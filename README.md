@@ -17,11 +17,12 @@
 17. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), 10 Sep 2019
 18. [Multi-passage BERT: A Globally Normalized BERT Model forOpen-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf), 2 Oct 2019
 19. [BERT with History Answer Embedding for ConversationalQuestion Answering](https://arxiv.org/pdf/1905.05412.pdf) 27 Oct 2019
-20. [Conversational Machine Comprehension: a Literature Review](https://arxiv.org/pdf/2006.00671.pdf) 1 Jun 2020
-21. [SDNET:  CONTEXTUALIZEDATTENTION-BASEDDEEPNETWORK   FORCONVERSATIONALQUESTIONAN-SWERING](https://arxiv.org/pdf/1812.03593.pdf).  2 Jan 2019
-22. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/pdf/1704.00051.pdf) 28 Apr 2017
-23. [Exploiting Text Matching Techniques forKnowledge-Grounded Conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136717), July 21, 2020.
-24. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf), 25 Nov 2019
+20. [How to Pre-Train Your Model?Comparison of Different Pre-Training Models for Biomedical Question Answering](https://arxiv.org/pdf/1911.00712.pdf)
+21. [Conversational Machine Comprehension: a Literature Review](https://arxiv.org/pdf/2006.00671.pdf) 1 Jun 2020
+22. [SDNET:  CONTEXTUALIZEDATTENTION-BASEDDEEPNETWORK   FORCONVERSATIONALQUESTIONAN-SWERING](https://arxiv.org/pdf/1812.03593.pdf).  2 Jan 2019
+23. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/pdf/1704.00051.pdf) 28 Apr 2017
+24. [Exploiting Text Matching Techniques forKnowledge-Grounded Conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136717), July 21, 2020.
+25. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf), 25 Nov 2019
 27. [Question Answering on SQuAD with BERT](Question Answering on SQuAD with BERT)
 31. [myquestion](https://ai.stackexchange.com/questions/24547/fine-tune-bert-to-get-contexualized-embedding)
 

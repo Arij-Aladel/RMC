@@ -1,5 +1,5 @@
 1. [FastQA: A Simple and Efficient Neural Architecture for Question](https://arxiv.org/pdf/1703.04816v1.pdf), 14 Mar 2017
-2. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/pdf/1704.00051.pdf)  28 April, 2017
+2. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/pdf/1704.00051.pdf)  28 April, 2017  [git repo](https://github.com/facebookresearch/DrQA)
 3. [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](https://arxiv.org/pdf/1804.09541.pdf), 23 Apr 2018
 4. [Stochastic Answer Networks for Machine Reading Comprehension](https://arxiv.org/pdf/1712.03556.pdf),  15 May 2018
 5. [NEURAL READING COMPREHENSION AND BEYOND](https://www.cs.princeton.edu/~danqic/papers/thesis.pdf) thesis 2018

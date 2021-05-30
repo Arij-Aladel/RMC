@@ -16,18 +16,21 @@
 17. [CS224n Final Project: SQuAD 2.0 with BERT](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15791990.pdf)
 18. [A Simple but Effective Method to Incorporate Multi-turn Contextwith BERT for Conversational Machine Comprehension](https://arxiv.org/pdf/1905.12848.pdf) 30 May 2019
 19. [Conversing by Reading:Contentful Neural Conversation with On-demand Machine Reading](https://arxiv.org/pdf/1906.02738.pdf), 7 Jun 2019
-20. [Neural Machine Reading Comprehension:Methods and Trends](https://arxiv.org/pdf/1907.01118v1.pdf), 2 Jul 2019
-21. [Attentive History Selection for ConversationalQuestion Answering](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905) 26 Aug 2019
-22. [TT-Net: Topic Transfer-Based Neural Network forConversational Reading Comprehension](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805064), September 3, 2019.
-23. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), 10 Sep 2019
-24. [Multi-passage BERT: A Globally Normalized BERT Model forOpen-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf), 2 Oct 2019
-25. [BERT with History Answer Embedding for ConversationalQuestion Answering](https://arxiv.org/pdf/1905.05412.pdf) 27 Oct 2019
-26. [How to Pre-Train Your Model?Comparison of Different Pre-Training Models for Biomedical Question Answering](https://arxiv.org/pdf/1911.00712.pdf) 2 Nov 2019
-27. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf), 25 Nov 2019
-28. [Machine Reading Comprehension:The Role of Contextualized Language Modelsand Beyond](https://arxiv.org/pdf/2005.06249.pdf)   13 May 2020
-29. [Conversational Machine Comprehension: a Literature Review](https://arxiv.org/pdf/2006.00671.pdf) 1 Jun 2020
-30. [Exploiting Text Matching Techniques forKnowledge-Grounded Conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136717), July 21, 2020.
-31. [myquestion](https://ai.stackexchange.com/questions/24547/fine-tune-bert-to-get-contexualized-embedding)
+20. [Multiple Attention Networks with Temporal Convolution for Machine Reading Comprehension](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784662)12-14 Agust 2019
+21. [Neural Machine Reading Comprehension:Methods and Trends](https://arxiv.org/pdf/1907.01118v1.pdf), 2 Jul 2019
+22. [Attentive History Selection for ConversationalQuestion Answering](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905) 26 Aug 2019
+23. [TT-Net: Topic Transfer-Based Neural Network forConversational Reading Comprehension](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805064), September 3, 2019.
+24. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), 10 Sep 2019
+25. [Multi-passage BERT: A Globally Normalized BERT Model forOpen-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf), 2 Oct 2019
+26. [BERT with History Answer Embedding for ConversationalQuestion Answering](https://arxiv.org/pdf/1905.05412.pdf) 27 Oct 2019
+27. [How to Pre-Train Your Model?Comparison of Different Pre-Training Models for Biomedical Question Answering](https://arxiv.org/pdf/1911.00712.pdf) 2 Nov 2019
+28. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf), 25 Nov 2019
+29. [From Machine Reading Comprehension to Dialogue State Tracking:Bridging the Gap](https://arxiv.org/pdf/2004.05827.pdf)  13 Apr 2020
+30. [Machine Reading Comprehension:The Role of Contextualized Language Modelsand Beyond](https://arxiv.org/pdf/2005.06249.pdf)   13 May 2020
+31. [Conversational Machine Comprehension: a Literature Review](https://arxiv.org/pdf/2006.00671.pdf) 1 Jun 2020
+32. [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks forConversational Machine Comprehension](https://arxiv.org/pdf/1908.00059.pdf)
+33. [Exploiting Text Matching Techniques forKnowledge-Grounded Conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136717), July 21, 2020.
+34. [myquestion](https://ai.stackexchange.com/questions/24547/fine-tune-bert-to-get-contexualized-embedding)
 
 ----
 # Review
@@ -37,8 +40,13 @@
 3. [Review Conversational Reading Comprehension](https://arxiv.org/pdf/1902.00821.pdf) 6 Nov 2019
 4. [A Survey on Machine Reading Comprehension:Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/pdf/2006.11880v1.pdf) , 21 Jun 2020
 
+----
+# Datasets
+1. [MS MARCO: A Human Generated MAchineReading COmprehension Dataset](http://ceur-ws.org/Vol-1773/CoCoNIPS_2016_paper9.pdf) 2016
 
-
+---
+# Reasoning
+1. [Dynamically Fused Graph Network for Multi-hop Reasoning](https://www.aclweb.org/anthology/P19-1617.pdf) August 2, 2019
 ==============================================================
 
 Historical evolvment

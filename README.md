@@ -29,7 +29,7 @@
 13. [Attentive History Selection for ConversationalQuestion Answering](https://dl.acm.org/doi/pdf/10.1145/3357384.3357905) 26 Aug 2019
 14. [TT-Net: Topic Transfer-Based Neural Network forConversational Reading Comprehension](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805064), September 3, 2019.
 15. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), 10 Sep 2019
-16. [Difference-aware Knowledge Selection for Knowledge-groundedConversation Generation](https://arxiv.org/pdf/2009.09378.pdf)
+16. [Difference-aware Knowledge Selection for Knowledge-groundedConversation Generation](https://arxiv.org/pdf/2009.09378.pdf)  [git](https://github.com/chujiezheng/DiffKS)  20 Sep 2019
 17. [Multi-passage BERT: A Globally Normalized BERT Model forOpen-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf), 2 Oct 2019
 18. [BERT with History Answer Embedding for ConversationalQuestion Answering](https://arxiv.org/pdf/1905.05412.pdf) 27 Oct 2019
 19. [How to Pre-Train Your Model?Comparison of Different Pre-Training Models for Biomedical Question Answering](https://arxiv.org/pdf/1911.00712.pdf) 2 Nov 2019

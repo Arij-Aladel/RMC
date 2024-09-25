@@ -1,5 +1,6 @@
 # 2005
 
+
 1. [Analysis of Factoid Questions for Effective Relation ](https://dl.acm.org/doi/pdf/10.1145/1076034.1076131)   August 2005
  -----
 # 2017
@@ -34,6 +35,7 @@
 18. [BERT with History Answer Embedding for ConversationalQuestion Answering](https://arxiv.org/pdf/1905.05412.pdf) 27 Oct 2019
 19. [How to Pre-Train Your Model?Comparison of Different Pre-Training Models for Biomedical Question Answering](https://arxiv.org/pdf/1911.00712.pdf) 2 Nov 2019
 20. [Who Did They Respond to?Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/pdf/1911.10666.pdf), 25 Nov 2019
+21. [Faster Transformers for Document Summarization](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/custom/15776950.pdf)    2019
 -----
 # 2020
 1. [From Machine Reading Comprehension to Dialogue State Tracking:Bridging the Gap](https://arxiv.org/pdf/2004.05827.pdf)  13 Apr 2020
